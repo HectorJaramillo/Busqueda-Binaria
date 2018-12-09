@@ -1,0 +1,7 @@
+C:\Users\DELL CORE i5\source\repos\Busqueda Binaria\Busqueda Binaria\bin\Debug\Busqueda Binaria.exe.config
+C:\Users\DELL CORE i5\source\repos\Busqueda Binaria\Busqueda Binaria\bin\Debug\Busqueda Binaria.exe
+C:\Users\DELL CORE i5\source\repos\Busqueda Binaria\Busqueda Binaria\bin\Debug\Busqueda Binaria.pdb
+C:\Users\DELL CORE i5\source\repos\Busqueda Binaria\Busqueda Binaria\obj\Debug\Busqueda Binaria.csprojResolveAssemblyReference.cache
+C:\Users\DELL CORE i5\source\repos\Busqueda Binaria\Busqueda Binaria\obj\Debug\Busqueda Binaria.csproj.CoreCompileInputs.cache
+C:\Users\DELL CORE i5\source\repos\Busqueda Binaria\Busqueda Binaria\obj\Debug\Busqueda Binaria.exe
+C:\Users\DELL CORE i5\source\repos\Busqueda Binaria\Busqueda Binaria\obj\Debug\Busqueda Binaria.pdb
